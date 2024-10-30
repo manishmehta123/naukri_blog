@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629208044486",
+    "project_id": "naukri-blogg",
+    "storage_bucket": "naukri-blogg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629208044486:android:06c0dad67bde4163efd8c7",
+        "android_client_info": {
+          "package_name": "com.example.naukri_bloggs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYm2lEPu0-01j4pFrQsCo8RoB2Ju3MTQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
